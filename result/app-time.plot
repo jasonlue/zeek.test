@@ -3,6 +3,7 @@ set grid
 set style data histograms
 set style fill solid 1.00 border -1
 set key autotitle columnhead
+set yrange[0:*]
 
 set title 'time cost of zeek per packet'
 set xlabel 'packets'

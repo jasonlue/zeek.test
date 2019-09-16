@@ -3,6 +3,7 @@ set grid
 set style data histograms
 set style fill solid 1.00 border -1
 set key autotitle columnhead
+set yrange [0:*]
 
 set title 'memory consumed per key in dictionary'
 set xlabel 'dictionary size'
