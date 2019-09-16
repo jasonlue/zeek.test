@@ -1,0 +1,4 @@
+zeek filter=lfs diff=lfs merge=lfs -text
+zeek.open filter=lfs diff=lfs merge=lfs -text
+zeek.open.stats filter=lfs diff=lfs merge=lfs -text
+zeek.stats filter=lfs diff=lfs merge=lfs -text
