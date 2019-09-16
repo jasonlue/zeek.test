@@ -1,0 +1,4 @@
+input-pcap-packets chained-dict clustered-dict
+10K                 13          4
+100K                104         32
+1M                  252         62

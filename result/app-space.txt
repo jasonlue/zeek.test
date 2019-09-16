@@ -1,0 +1,4 @@
+"mallo'd memory (M)" "chained dictionary"    "clustered dictionary"
+10K.pcap                144                             135
+100K.pcap               816                             749
+1M.pcap                 1672                            1499

@@ -1,0 +1,4 @@
+input       zeek-with-chained-dict zeek-with-clustered-dict
+10K.pcap        25                      24
+1000K.pcap      21.3                    20.2
+1M.pcap         13.23                   12.41

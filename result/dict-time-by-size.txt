@@ -1,0 +1,8 @@
+size insert-chained insert-clustered successful-lookup-chained successful-lookup-clustered failed-lookup-chained failed-lookup-clustered remove-chained remove-clustered'
+1           186                 73                  21                          12                      24              14                      29              15                    
+10          135                 95                  28                          13                      25              14                      30              16                    
+100         105                 97                  22                          19                      23              18                      24              19                    
+1K          151                 156                 33                          33                      28              28                      36              36                    
+10K         277                 189                 61                          52                      48              37                      71              57
+100K        440                 336                 185                         211                     75              73                      303             274
+147,695     599                 329                 243                         175                     100             62                      530             309

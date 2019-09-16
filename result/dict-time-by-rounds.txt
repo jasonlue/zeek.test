@@ -1,0 +1,8 @@
+rounds insert-chained insert-clustered successful-lookup-chained successful-lookup-clustered failed-lookup-chained failed-lookup-clustered remove-chained remove-clustered'
+1K          106                 104                 19                          21                      34              20                      24              21                    
+10K         118                 106                 22                          16                      21              19                      23              18
+100K        105                 97                  24                          17                      22              15                      24              17
+200K        108                 97                  22                          16                      22              18                      24              17
+400K        152                 99                  267                         17                      25              16                      26              18
+600K        186                 158                 404                         126                     435             18                      486             19
+800K        256                 205                 484                         200                     527             17                      594             17
